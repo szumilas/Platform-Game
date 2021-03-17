@@ -10,6 +10,3 @@ Projekt składa się z kilkudziesięciu klas - m.in. obiektów rozgrywki (postac
 Wykorzystywane jest dziedziczenie klas, funkcje wirtualne, tablice dynamiczne czy wskaźniki do obiektów i funkcji.
 
 Projekt nauczył mnie pisanie większych programów orientowanych obiektowo.
-
-Najsłabszą częścią kodu jest powtórzenie kilkunastu linijek.
-Jest to jednakże w miejscu w którym powinna być profesjonalnie wykonana animacja, a nie dalsze kontunuowanie głównej pętli gry.
